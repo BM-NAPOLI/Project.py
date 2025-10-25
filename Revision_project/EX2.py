@@ -1,0 +1,5 @@
+ANE_NES = int(input("ENTREZ VOS ANNE DE NESSANCE : "))
+ANE_ACT = int(input("ENTREZ L'ANNE ACTUELE : "))
+AGE = ANE_ACT - ANE_NES
+
+print(f"VOUS AVEZ {AGE} ANS")

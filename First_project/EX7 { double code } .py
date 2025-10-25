@@ -1,0 +1,2 @@
+qoute = '" BATWARIST " '
+print (qoute)

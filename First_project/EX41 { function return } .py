@@ -1,0 +1,9 @@
+
+#! FUNCTION : RETURN 
+
+def GET_DISCOUNT (PRICE):
+    return PRICE * 0.5
+
+FINAL_PRICE = GET_DISCOUNT(1000)
+print(FINAL_PRICE)
+

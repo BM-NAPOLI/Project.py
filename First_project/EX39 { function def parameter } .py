@@ -1,0 +1,10 @@
+# FUNCTION : 
+#? PARAMETER : 
+#! AL MO3AMIL :
+
+def AVERAGE (NUM1,NUM2,NUM3) : 
+    TOTAL = NUM1 + NUM2 + NUM3
+    AVG = TOTAL / 3 
+    print("AVERAGE = ",AVG)
+
+AVERAGE (30,50,67)

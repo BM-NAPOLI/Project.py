@@ -1,0 +1,19 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build EX5",
+            "type": "shell",
+            "command": "gcc",
+            "args": [
+                "-Wall",
+                "-Wextra",
+                "-g3",
+                "c:\\Users\\Rachid\\Desktop\\PROJECT.python\\first_project\\EX5.c",
+                "-o",
+                "c:\\Users\\Rachid\\Desktop\\PROJECT.python\\first_project\\output\\EX5.exe"
+            ],
+            "problemMatcher": ["$gcc"]
+        }
+    ]
+}
